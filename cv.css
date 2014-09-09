@@ -1,0 +1,144 @@
+body{
+        font-family: Verdana,Sans-serif;
+        color:white;
+        background:url(Images/grey.png);
+      }
+
+      #cv, .headers{
+        background: #999;
+        color:white;
+        border:5px solid black;
+      }
+      #cv, h1{
+        font-size: 50px;
+        padding:20px;
+      }
+    
+      #info, .photo{
+        margin-right: -27px;
+        margin-bottom: -12px;
+        border:5px solid black;
+        float:left;
+      
+      }
+      #info{ 
+        background: #999;
+        color:white;
+        border: 5px solid black;
+        margin-left: 22px;
+        padding: 10px;
+        padding-left: 5px;
+        font-size: 18px;
+      }
+
+      #intro{
+        padding:5px;
+        background: #999;
+        border: 5px solid #000;
+        float: left;
+
+    }
+      .clear{
+        clear:both;
+      }
+      
+        #work{
+          width:600px;
+          height: 1000px;
+          padding: 10px;
+          background:#999;
+          color:white;
+          border: 5px solid #000;  /*linjerna runt rutan*/
+          margin-top: 5px solid#000;
+          margin-bottom: 5px;
+          border-bottom-width: 15px;
+          border-left-width: 5px;  
+          float: left;
+        
+        }       
+        
+        #education{
+          width:500px;
+          height:400px;
+          padding-left: 5px;
+          background: #999;
+          border: 5px solid #000;
+          margin-top: 5px solid#000;
+          margin-bottom: 5px;
+          border-left-width: 5px;
+          float: left;
+        }
+        #about-me{
+          width: 506px;
+          height: 400px;
+          margin-top: -639px;
+          background: #999;
+          border: 5px solid black;
+          float: left;
+      }
+
+       #computer{
+          width: 496px;
+          height: 120px;
+          background: #999;
+          padding: 5px;
+          padding-top:5px;
+          border: 5px solid black;
+          margin-top: -234px;
+          float: left;
+
+      }
+
+      #language{
+         width: 496px;
+         height: 200px;
+         background:#999;
+         padding: 5px;
+         padding-top: 5px;
+         border:5px solid black;
+         margin-top: -99px; /*Rutans position*/
+         float: left;
+
+      }
+      
+         img{
+          height:170px;
+          width:150px;
+          transition: all 1s ease-in;
+  
+      }
+         img:hover{
+          height:500px;
+          width:400px;
+          transition: all 3s ease-out;
+
+     }
+
+     section:hover{
+      transition: all 3s ease-in-out;
+      border:5px blue;
+     }
+
+
+
+
+
+
+
+      
+
+     
+    
+      
+      
+
+      
+
+
+
+      
+
+      
+
+      
+      
