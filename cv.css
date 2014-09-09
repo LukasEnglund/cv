@@ -111,13 +111,15 @@ body{
           height:500px;
           width:400px;
           transition: all 3s ease-out;
+          border:;
 
      }
 
-     section:hover{
-      transition: all 3s ease-in-out;
-      border:5px blue;
+     p:hover{
+        color:hsla(178, 98%, 50%, 0.95);
+      
      }
+
 
 
 
